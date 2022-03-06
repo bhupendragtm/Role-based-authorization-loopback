@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+585f584305e2ff4edf3228401f97b943d38c939d refs/remotes/origin/dependabot/npm_and_yarn/acorn-7.1.1
+929acf4026174500b5a047d14e8735af63ccf4fc refs/remotes/origin/dependabot/npm_and_yarn/bl-2.2.1
+db1e939f7c357322b5ca717b8ccb1e755c94deee refs/remotes/origin/dependabot/npm_and_yarn/glob-parent-5.1.2
+6bb9cd61e8c6c0711bdb52ffadffaf4de18d708d refs/remotes/origin/dependabot/npm_and_yarn/handlebars-4.7.7
+f8655cf1026661b37533dd5ee271cbcde7a61fd0 refs/remotes/origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
+95387516c5350afff9094953e453109f2b3f6f1f refs/remotes/origin/dependabot/npm_and_yarn/lodash-4.17.21
+26edc1c19c7e088c10111d752318715cfd047a0b refs/remotes/origin/dependabot/npm_and_yarn/msgpack5-4.5.1
+b118e81b78c2700d4241122cde8e90e244065f2b refs/remotes/origin/dependabot/npm_and_yarn/path-parse-1.0.7
+8d0b295f2cd821766d6a7bd85ed5c8348e645b62 refs/remotes/origin/dependabot/npm_and_yarn/y18n-4.0.1
+8a4fa939ad9fcbbb36a8b111fc4de7a0af83897d refs/remotes/origin/master
