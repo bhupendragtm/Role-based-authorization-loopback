@@ -33,7 +33,7 @@ export const JWT_STRATEGY_NAME = 'jwt';
 export function secured(
   type: SecuredType = SecuredType.IS_AUTHENTICATED, // more on this below
   roles: string[] = [],
-  strategy: string = 'jwt',
+  strategy = 'jwt',
   options?: object,
 ) {
   // we will use a custom interface. more on this below

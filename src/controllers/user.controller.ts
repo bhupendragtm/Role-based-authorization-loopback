@@ -16,7 +16,7 @@ export class UserController {
 
   @post('/users')
   async createUser(@requestBody() user: User): Promise<User> {
-    return await this.userRepository.create(user);
+    return this.userRepository.create(user);
   }
 
   @post('/users/login')
